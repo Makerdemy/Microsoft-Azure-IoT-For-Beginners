@@ -1,0 +1,14 @@
+Video 4.2:
+
+Remotely Access Raspberry Pi 4 through laptop using SSH & VNC :
+
+https://www.youtube.com/watch?v=V4gCtw9tvYY
+
+GitHub repository link for Azure IoT hub Python SDK :
+
+https://github.com/Azure/azure-iot-sdk-python
+
+Commands for upgrading & installing Library package in Raspberry Pi :
+
+https://www.pantechsolutions.net/blog/installing-library-packages-in-raspberry-pi/ 
+

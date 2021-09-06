@@ -1,0 +1,12 @@
+Video 4.3:
+
+
+Setting up Arduino IDE for ESP32 development :
+
+https://www.youtube.com/watch?v=wNtGHCrO7E4
+
+
+GitHub repository link for Azure IoT library for embedded C on Arduino IDE:
+
+https://github.com/Azure/azure-iot-arduino
+

@@ -1,0 +1,8 @@
+Video 5.2:
+
+
+Remotely Access Raspberry Pi 4 through laptop using SSH & VNC :
+
+https://www.youtube.com/watch?v=V4gCtw9tvYY
+
+
